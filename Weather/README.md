@@ -14,10 +14,10 @@ Welcome to the Weather App project! This is a simple yet powerful web applicatio
 <h3>Screenshots</h3>
 
    Below are screenshots showcasing the different background images that correspond to various weather conditions:
-   <img src="Images/Result1.png" width="800px" height="400px">
+   <img src="Images/Result1.png" width="900px" height="400px">
    <br>
    <br>
-   <img src="Images/Result2.png" width="800px" height="400px">
+   <img src="Images/Result2.png" width="900px" height="600px">
 
 <h3>Technologies Used</h3>
 
