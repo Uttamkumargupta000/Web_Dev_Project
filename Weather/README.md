@@ -13,16 +13,18 @@ Welcome to the Weather App project! This is a simple yet powerful web applicatio
 
 <h3>Screenshots</h3>
 
-   Below are screenshots showcasing the different background images that correspond to various weather conditions:
+   Below are screenshots showcasing the different background images that correspond to various weather conditions:<br> <br
+   <p> Result-1 </p>
    <img src="Images/Result1.png" width="900px" height="400px">
    <br>
+   <br> <p> Result-1 </p> <br>
    <br>
    <img src="Images/Result2.png" width="900px" height="600px">
 
 <h3>Technologies Used</h3>
 
-   HTML5: For structuring the content of the app.
-   CSS3: For styling the app, including responsive design and animations.
-   JavaScript: For fetching weather data from the API and dynamically updating the UI.
-   Weather API: To retrieve real-time weather data for any specified location. </p>
+   HTML5: For structuring the content of the app. <br>
+   CSS3: For styling the app, including responsive design and animations.<br>
+   JavaScript: For fetching weather data from the API and dynamically updating the UI. <br>
+   Weather API: To retrieve real-time weather data for any specified location.
 
