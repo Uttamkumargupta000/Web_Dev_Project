@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="light">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -31,14 +31,12 @@
     <script src="./assests/global.js" type="module"></script>
     <script src="./assests/home.js" type="module"></script>
 
-
 </head>
-
 
 <body>
 
     <!-- HEADER -->
-     <header class="header" data-header>
+    <header class="header" data-header>
 
         <a href="/" class="logo">
             <img src="./assests/images/logo-light.svg" width="156" height="32"  alt="Cook.io" class="logo-light">
@@ -63,14 +61,66 @@
 
         </button>
 
-        <a href="./saved-recipes.html" class="btn btn-primary">
+        <a href="./saved-recipes.html" class="btn btn-primary has-icon">
 
             <span class="material-symbols-outlined" aria-hidden="true">book</span>
 
             <span class="span">Saved Receipes</span>
         </a>
 
-     </header>
+    </header>
+
+     <!-- MOBILE NAV -->
+
+     <nav class="mobile-nav" aria-label="primary">
+
+        <ul class="nav-list">
+
+            <li class="nav-item">
+
+                <a href="./receipes.html" class="nav-link">
+
+                    <span class="item-icon">
+                        <span class="material-symbols-outlined" aria-hidden="true">lunch_dining</span>
+                    </span>
+
+                    <span class="label-medium">Receipes</span>
+                </a>
+
+            </li>
+
+            <li class="nav-item">
+
+                <a href="./receipes.html" class="nav-link">
+
+                    <span class="item-icon">
+                        <span class="material-symbols-outlined" aria-hidden="true">home</span>
+                    </span>
+
+                    <span class="label-medium">Home</span>
+                </a>
+
+            </li>
+
+            <li class="nav-item">
+
+                <a href="./receipes.html" class="nav-link">
+
+                    <span class="item-icon">
+                        <span class="material-symbols-outlined" aria-hidden="true">book</span>
+                    </span>
+
+                    <span class="label-medium">Saved</span>
+                </a>
+
+            </li>
+
+        </ul>
+
+     </nav>
+    
+
+
     <!-- <p class="display-large">Typography</p>
 
     <p class="display-medium">Typography</p>
