@@ -11,7 +11,9 @@ Features
    User-friendly Interface: A simple and clean design ensures that users can easily select currencies and input amounts for conversion.
    Responsive Design: The application is designed to work seamlessly on both desktop and mobile devices.
 
-<img src="images.png" alt="Cooresponding_Images" width="450" height="450">
+<h3>Images</h3>
+
+<img src="images.png" alt="Cooresponding_Images" width="650" height="450">
 
 <br>
 
